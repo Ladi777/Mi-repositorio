@@ -1,0 +1,17 @@
+.fondobarra{
+    background-color: aqua !important;
+    color: red !important;
+}
+
+.links >li > a{
+    color: rgb(250, 8, 8) !important;
+}
+
+.botonera{
+    color: rgb(219, 12, 12) !important;
+}
+
+.row {
+    width: 74%;
+	margin: auto;
+}
